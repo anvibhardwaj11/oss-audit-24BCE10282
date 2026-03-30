@@ -1,11 +1,11 @@
-# OSS Audit — Git (24BCG10026)
+# OSS Audit — Git (24BCE10282)
 
 **Student:** Anvi Bhardwaj
 **Roll Number:** 24BCE10282
 **Course:** Open Source Software — CSE0002
 **Chosen Software:** Git (Version Control System)
 **License:** GNU General Public License v2 (GPL v2)
-**Repository:** https://github.com/ArshVermaGit/oss-audit-24BCG10026
+**Repository:** https://github.com/anvibhardwaj11/oss-audit-24BCE10282
 
 ---
 
@@ -52,8 +52,8 @@ git config --global user.email "your.email@example.com"
 ### 4. Clone & Execution
 ```bash
 # Clone the repository
-git clone https://github.com/ArshVermaGit/oss-audit-24BCG10026.git
-cd oss-audit-24BCG10026
+git clone https://github.com/anvibhardwaj11/oss-audit-24BCE10282
+cd oss-audit-24BCE10282
 
 # Make all scripts executable (REQUIRED)
 chmod +x scripts/*.sh
