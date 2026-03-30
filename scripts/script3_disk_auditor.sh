@@ -1,7 +1,7 @@
 #!/bin/bash
 # =============================================================
 # Script 3  : Disk and Permission Auditor
-# Author    : Arsh Verma (24BCG10026)
+# Author    : Anvi Bhardwaj (24BCE10282)
 # Course    : Open Source Software — CSE0002
 # Software  : Git (chosen for OSS Audit)
 # Purpose   : Audits key system directories for permissions,

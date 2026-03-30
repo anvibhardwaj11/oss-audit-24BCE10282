@@ -1,7 +1,7 @@
 #!/bin/bash
 # =============================================================
 # Script 4  : Log File Analyzer
-# Author    : Arsh Verma (24BCG10026)
+# Author    : Anvi Bhardwaj (24BCE10282)
 # Course    : Open Source Software — CSE0002
 # Software  : Git (chosen for OSS Audit)
 # Purpose   : Reads a log file line by line, counts lines that

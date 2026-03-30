@@ -1,7 +1,7 @@
 #!/bin/bash
 # =============================================================
 # Script 1  : System Identity Report
-# Author    : Arsh Verma (24BCG10026)
+# Author    : Anvi Bhardwaj (24BCE10282)
 # Course    : Open Source Software — CSE0002
 # Software  : Git (chosen for OSS Audit)
 # Purpose   : Displays a system identity report as a formatted
@@ -13,8 +13,8 @@
 # --- VARIABLES ---
 
 # Student and project information
-STUDENT_NAME="Arsh Verma"              # Student's full name
-ROLL_NUMBER="24BCG10026"               # University roll number
+STUDENT_NAME="Anvi Bhardwaj"              # Student's full name
+ROLL_NUMBER="24BCE10282"               # University roll number
 SOFTWARE_CHOICE="Git"                  # Chosen open-source software for audit
 
 # System information using command substitution
